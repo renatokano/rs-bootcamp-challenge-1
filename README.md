@@ -7,9 +7,11 @@
 </h1>
 
 <p align="center">
+  [&nbsp;&nbsp;&nbsp;
   <a href="#about-the-challenge">About the Challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#solution-proposal">Solution Proposal</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#challenges">Challenges</a>
+  &nbsp;&nbsp;&nbsp;]
 </p>
 
 ## About the challenge
