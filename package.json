@@ -1,0 +1,15 @@
+{
+  "name": "rs-challenge-1",
+  "version": "1.0.0",
+  "description": "Create an application to store your projects and tasks using the Express framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Renato Kano",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
