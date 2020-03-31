@@ -46,13 +46,13 @@ let checkIdExists = (req,res,next) => {
   return next();
 }
 
-// Global Middleware that calls all requests and prints (console.log) a request counter
+// Middleware which is called by all requests (aka Global Middleware) and prints (console.log) a request counter
 let logRequests = (req,res,next) => {
   console.count("Number of requests");
   next();
 }
 
-// Executes global middleware
+// Loads a global middleware
 app.use(logRequests);
 
 // List all projects
