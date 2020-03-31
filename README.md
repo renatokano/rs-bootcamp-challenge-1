@@ -1,10 +1,16 @@
-<h2 align="center">
+<h3 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="90px" />
-</h2>
+</h3>
 
 <h1 align="center">
   [RocketSeat] Bootcamp Challenge 1<br/>NodeJS Fundamentals
 </h1>
+
+<p align="center">
+  <a href="#about-the-challenge">About the Challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#solution-proposal">Solution Proposal</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#challenges">Challenges</a>
+</p>
 
 ## About the challenge
 
@@ -42,6 +48,10 @@ If you call the `POST /projects` route passing `{ id: 1, title: 'New project' }`
 
 - Create a global middleware that will be called on all requests and print a counter that contains the total requests so far;
 
-### Challenges
+## Solution Proposal
+
+- [app.js](https://github.com/renatokano/rs-bootcamp-challenge-1/blob/master/app.js)
+
+## Challenges
 
 - [Rocket Seat](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md)
