@@ -1,3 +1,7 @@
+<h2 align="center">
+    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="90px" />
+</h2>
+
 <h1 align="center">
   [RocketSeat] Bootcamp Challenge 1<br/>NodeJS Fundamentals
 </h1>
